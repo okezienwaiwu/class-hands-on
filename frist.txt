@@ -1,4 +1,4 @@
-<> this is for our training </>
+> this is for our training </>
 
 <html> 
  <body>
